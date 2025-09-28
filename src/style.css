@@ -641,7 +641,7 @@ hr {
   }
   .ProductCard-container {
     flex-direction: column;
-    margin-top: 0;
+    margin-top: -1rem;
   }
 
   .img-product1 {
